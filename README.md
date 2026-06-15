@@ -1,125 +1,245 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
+# Sathvik Vure
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vure-sathvik/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sathvik%20Vure&fontAlign=50&fontAlignY=40&color=0:6C63FF,50:7C3AED,100:312E81&fontColor=ffffff" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Building+Scalable+and+Intelligent+Systems)](https://git.io/typing-svg)
+
+![B.Tech](https://img.shields.io/badge/B.Tech-2027-7C3AED?style=for-the-badge)
+![India](https://img.shields.io/badge/India-Hyderabad-4F46E5?style=for-the-badge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vure-sathvik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-7C3AED?style=for-the-badge)](https://github.com/VURE-SATHVIK-22/myportfolio)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge)](mailto:vuresathvik22@gmail.com)
+
 </div>
 
-###
+---
+
+# About
+
+Software Engineer and AI Engineer focused on scalable backend systems, full-stack development, cloud-native applications, RAG pipelines, LLM applications, and intelligent software solutions.
+
+## Open To
+
+- Software Engineering
+- AI Engineering
+- Backend Development
+- Full Stack Development
+- Open Source Contributions
+
+---
+
+# Tech Stack
+
+### Languages
+![Skills](https://skillicons.dev/icons?i=java,python,javascript,c,cpp)
+
+### Frontend
+![Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,vite)
+
+### Backend & Databases
+![Skills](https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,mysql,postgres,mongodb,redis)
+
+### Cloud, DevOps & Tooling
+![Skills](https://skillicons.dev/icons?i=aws,docker,git,github,linux)
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|----------|----------|
+| LLM Applications | Advanced | Production-grade AI systems |
+| RAG | Advanced | LangChain, LangGraph, Qdrant |
+| NLP | Advanced | Semantic Search & Embeddings |
+| AI Agents | Advanced | Multi-Agent Workflows |
+| Data Engineering | Intermediate | Kafka, ETL Pipelines |
+| MLOps | Intermediate | Deployment & Monitoring |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>AI Resume Analyzer & Job Matching</b></summary>
+
+| Category | Details |
+|----------|----------|
+| Stack | Python, NLP, Transformers, FastAPI |
+| Scale | Multi-resume processing |
+| Performance | Improved matching accuracy |
+| Security | Input validation |
+| Impact | Automated candidate screening |
+
+</details>
+
+<details>
+<summary><b>Self-Healing RAG Pipeline</b></summary>
+
+| Category | Details |
+|----------|----------|
+| Stack | LangGraph, LangChain, FastAPI |
+| Scale | 10K+ Documents |
+| Performance | Reduced hallucinations |
+| Security | Validation workflows |
+| Impact | Enterprise Retrieval System |
+
+</details>
+
+<details>
+<summary><b>CodeReview AI</b></summary>
+
+| Category | Details |
+|----------|----------|
+| Stack | Spring Boot, React, PostgreSQL |
+| Scale | Multi-project reviews |
+| Performance | Faster code analysis |
+| Security | JWT Authentication |
+| Impact | Automated code reviews |
+
+</details>
+
+---
+
+# Experience
+
+## Software Engineering Intern — Chakravyuha Dynamics Pvt Ltd
+
+**Mar 2026 – May 2026**
+
+- Developed production-ready web applications
+- Improved deployment workflows
+- Optimized performance and usability
+- Collaborated on scalable engineering solutions
+
+---
+
+## Vice President — NextGen Innovators Club
+
+- Organized technical events and workshops
+- Mentored student developers
+
+---
+
+## Co-Lead — Algorand Blockchain Club
+
+- Conducted blockchain sessions
+- Led community initiatives
+
+---
+
+# Achievements
+
+| Recognition | Details |
+|------------|----------|
+| National Hackathon | Top 6 among 400+ teams |
+| Leadership | Vice President, NextGen Innovators Club |
+| AI Engineering | Built RAG and Agentic AI Systems |
+| Software Engineering | Multiple production-grade projects |
+
+---
+
+# Certifications
+
+### AWS
+![AWS Networking](https://img.shields.io/badge/AWS-Networking-FF9900?style=for-the-badge)
+![AWS Storage](https://img.shields.io/badge/AWS-Storage-FF9900?style=for-the-badge)
+![AWS Compute](https://img.shields.io/badge/AWS-Compute-FF9900?style=for-the-badge)
+
+### Other
+![AI Fundamentals](https://img.shields.io/badge/AI-Fundamentals-blue?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data-Science-blue?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem-Solving-green?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/u/vuresathvik22/)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge)](https://www.geeksforgeeks.org/profile/vuresatcira)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge)](https://www.hackerrank.com/profile/23891A01264)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge)](https://www.codechef.com/users/vuresathvik22)
+
+---
+
+# GitHub Analytics
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VURE-SATHVIK-22.VURE-SATHVIK-22&"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=VURE-SATHVIK-22&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VURE-SATHVIK-22&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I’m a B.Tech IT student (2023–2027) and currently working as a Software Engineering Intern at Chakravyuha Dynamics (CDPL), where I contribute to building and improving scalable web platforms, focusing on performance, usability, and deployment workflows.<br><br>I have a strong interest in Data Structures & Algorithms, backend development, and applied machine learning. I enjoy breaking down complex problems, identifying efficient solutions, and implementing them with clean and maintainable code. My technical experience spans full stack development using modern web technologies along with data analysis and machine learning fundamentals.<br><br>I’ve actively participated in hackathons and collaborative projects, where I worked on real-world problem statements under time constraints, strengthening my problem-solving ability and teamwork skills. I also conducted web development workshops for students, which helped me improve my ability to explain technical concepts clearly.<br><br>Currently, I am focused on strengthening my DSA skills, exploring AI and Data Engineering concepts, and building impactful projects that combine software engineering with data-driven decision making. I aim to grow into a well-rounded engineer capable of designing efficient systems and solving meaningful real-world challenges.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VURE-SATHVIK-22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VURE-SATHVIK-22&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
 
-###
+---
 
-<p align="left">Hello World!!</p>
+# GitHub Trophies
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+![](https://github-profile-trophy.vercel.app/?username=VURE-SATHVIK-22&theme=algolia&no-frame=true&row=1&column=7)
+
 </div>
 
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/40c463/VURE-SATHVIK-22" alt="GitHub Contribution Graph" />
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - System Design
+  - AI Agents
+  - Distributed Systems
+
+building:
+  - RAG Systems
+  - AI Applications
+  - Full Stack Platforms
+
+exploring:
+  - LangGraph
+  - Vector Databases
+  - Cloud Architecture
+
+open_to:
+  - Software Engineering Roles
+  - AI Engineer Roles
+  - Backend Engineering Roles
+```
+
+---
+
+# Connect
+
+- Email: vuresathvik22@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vure-sathvik
+- GitHub: https://github.com/VURE-SATHVIK-22
+- Portfolio: https://github.com/VURE-SATHVIK-22/myportfolio
+
+---
+
+> Building scalable software, intelligent systems, and impactful products.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,100:312E81"/>
