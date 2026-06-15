@@ -199,7 +199,7 @@ Software Engineer and AI Engineer focused on scalable backend systems, full-stac
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/40c463/VURE-SATHVIK-22" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VURE-SATHVIK-22&bg_color=0D1117&color=C084FC&line=8B5CF6&point=A855F7&area=true&hide_border=true" />
 
 </div>
 
