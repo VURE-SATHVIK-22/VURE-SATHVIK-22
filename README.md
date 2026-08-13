@@ -236,7 +236,7 @@ open_to:
 - Email: vuresathvik22@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vure-sathvik
 - GitHub: https://github.com/VURE-SATHVIK-22
-- Portfolio: https://github.com/VURE-SATHVIK-22/myportfolio
+- Portfolio: https://vuresathvik.vercel.app/
 
 ---
 
